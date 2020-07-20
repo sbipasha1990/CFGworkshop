@@ -2,4 +2,9 @@ new addition to the file
 this change is from master branch
 this is a content merge file
 this is from test branch
+<<<<<<< HEAD
 this is from master
+||||||| eb930c6
+=======
+this is from test branch again
+>>>>>>> feature/test
